@@ -12,7 +12,7 @@
 
 <br />
 <br />
-Hi, I'm [Raul Quispe](https://blog.abhisheknaidu.tech/), a Mobile Developer 🚀 from Perú, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@Globant](https://www.globant.com/), Mentor 👨🏽‍💼[@quimalabs](https://github.com/quimalabs) and a Former Research Intern. Beside's programming, I enjoy eating food, take photographs and traveling.
+Hi, I'm [Raul Quispe](https://quimalabs.com/), a Mobile Developer 🚀 from Perú, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@Globant](https://www.globant.com/), Mentor 👨🏽‍💼[@quimalabs](https://github.com/quimalabs) and a Former Research Intern. Beside's programming, I enjoy eating food, take photographs and traveling.
  
 **Talking about Personal Stuffs:**
 
