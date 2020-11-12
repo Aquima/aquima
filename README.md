@@ -13,9 +13,7 @@
 <br />
 
 Hi, I'm [Raul Quispe](https://blog.abhisheknaidu.tech/), a Mobile Developer 🚀 from Perú, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@Globant](https://globant.com), Mentor 👨🏽‍💼[@quimalabs](https://github.com/quimalabs) and a Former Research Intern. Beside's programming, I enjoy eating food, take photographs and traveling.
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+ 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool projects with swift and kotlin programing languages :wink:;
@@ -42,11 +40,6 @@ Python  30 mins         █▒░░░░░░░░░░░░░░░░�
 Objective-C       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 ```
 <!--END_SECTION:waka-->
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aquima&show_icons=true&theme=gotham" alt="aquima" />
 
 
 
