@@ -10,12 +10,10 @@
   <img align="left" alt="Raul quispe Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br />
-<br />
 Hi, I'm [Raul Quispe](https://quimalabs.com/), a Mobile Developer 🚀 from Perú, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@Globant](https://www.globant.com/), Mentor 👨🏽‍💼[@quimalabs](https://github.com/quimalabs) and a Former Research Intern. Beside's programming, I enjoy eating food, take photographs and traveling.
- 
-**Talking about Personal Stuffs:**
 
+**Talking about Personal Stuffs:**
+ 
 - 👨🏽‍💻 I’m currently working on something cool projects with swift and kotlin programing languages :wink:;
 - 🌱 I’m currently learning Flutter and Dart; 
 - 💬 Ask me about anything, I am happy to help;
