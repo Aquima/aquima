@@ -7,7 +7,7 @@
 [@Linkedin](https://twitter.com/rahulqm)
 [@Twitter](https://www.linkedin.com/in/rahulqm/)
 
-Hi, I'm [Raul Quispe](https://quimalabs.com/), a Mobile Developer 🚀 from Perú, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@TrueNorth](https://www.truenort.co/), Mentor 👨🏽‍💼[@quimalabs](https://github.com/quimalabs) and a Former Research Intern. Beside's programming, I enjoy eating food, take photographs and traveling.
+Hi, I'm [Raul Quispe](https://quimalabs.com/), a Mobile Developer 🚀 from Perú, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@PedidosYa](https://www.pedidosya.com/), Mentor 👨🏽‍💼[@quimalabs](https://github.com/quimalabs) and a Former Research Intern. Beside's programming, I enjoy eating food, take photographs and traveling.
 
 **Talking about Personal Stuffs:**
  
@@ -29,7 +29,7 @@ Hi, I'm [Raul Quispe](https://quimalabs.com/), a Mobile Developer 🚀 from Per�
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Swift         3 hrs 13 mins   ████████████▒░░░░░░░░░░░░░░   33.01 % 
+Swift         8 hrs 13 mins   ███████████████████▒░░░░░░░   60.01 % 
 Kotlin        3 hrs 13 mins   ████████████▒░░░░░░░░░░░░░░   33.01 %  
 Python  30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 Objective-C       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
