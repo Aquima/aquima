@@ -7,7 +7,7 @@
 [@Linkedin](https://twitter.com/rahulqm)
 [@Twitter](https://www.linkedin.com/in/rahulqm/)
 
-Hi, I'm [Raul Quispe](https://quimalabs.com/), a Mobile Developer 🚀 from Perú, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@PedidosYa](https://www.pedidosya.com/), Mentor 👨🏽‍💼[@quimalabs](https://github.com/quimalabs) and a Former Research Intern. Beside's programming, I enjoy eating food, take photographs and traveling.
+Hi, I'm [Raul Quispe](https://quimalabs.com/), a Mobile Developer 🚀 from Perú, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@PedidosYa](https://www.pedidosya.com/), iOS Mentor 👨🏽‍💼[@MercadoLibre](https://www.mercadolibre.com/) and a Former Research Intern. Beside's programming, I enjoy eating food, take photographs and traveling.
 
 **Talking about Personal Stuffs:**
  
