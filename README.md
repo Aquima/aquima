@@ -4,16 +4,15 @@
 
 ### Mobile Developer iOS and Android
 
-[@Linkedin](https://twitter.com/rahulqm)
+[@Linkedin](https://www.linkedin.com/in/rahulqm/)
 
-Hi, I'm [Raul Quispe](http://quimalabs.com/), a Mobile Developer 🚀 from Perú, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@PedidosYa](https://www.pedidosya.com/), iOS Mentor 👨🏽‍💼[@MercadoLibre](https://www.mercadolibre.com/) and a Former Research Intern. Beside's programming, I enjoy eating food, take photographs and traveling.
+Hi, I'm [Raul Quispe](http://quimalabs.com/), a Mobile Developer 🚀 from Perú, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@FPay](https://fpay.cl/), iOS Mentor 👨🏽‍💼 and a Former Research Intern. Beside's programming, I enjoy eating food, take photographs and traveling.
 
 **Talking about Personal Stuffs:**
  
 - 👨🏽‍💻 I’m currently working on something cool projects with swift and kotlin programing languages :wink:;
 - 🌱 I’m currently learning Flutter and Dart; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@rahulqm](https://twitter.com/rahulqm);
 
 **Languages and Tools:**  
 
