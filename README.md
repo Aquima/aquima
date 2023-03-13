@@ -6,7 +6,7 @@
 
 [@Linkedin](https://www.linkedin.com/in/rahulqm/)
 
-Hi, I'm [Raul Quispe](http://quimalabs.com/), a Mobile Developer 🚀 from Perú, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@FPay](https://fpay.cl/), iOS Mentor 👨🏽‍💼 and a Former Research Intern. Beside's programming, I enjoy eating food, take photographs and traveling.
+Hi, I'm [Raul Quispe](http://quimalabs.com/), a Mobile Developer 🚀 from Perú, currently, I'm a Project Collaborator PunaUI, iOS Mentor 👨🏽‍💼 and a Former Research Intern. Beside's programming, I enjoy eating food, take photographs and traveling.
 
 **Talking about Personal Stuffs:**
  
